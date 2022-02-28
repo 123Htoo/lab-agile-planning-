@@ -1,6 +1,6 @@
 ---
 name: 'User Story '
-about: This template is creating use stories
+about: 'This template is creating for user stories '
 title: ''
 labels: ''
 assignees: ''
@@ -20,4 +20,3 @@ assignees: ''
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
- ```
